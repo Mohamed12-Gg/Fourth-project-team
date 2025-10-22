@@ -35,8 +35,20 @@ nav img {
   width: 200px;
   height: 50px;
 }
+
 nav a {
-  margin: 0% 2%;
+  /* display: inline-block; */
+  margin: 0 2%;
+  padding: 0 15px;
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+  color: #f0f0f0;
+  transition: 0.5s;
+}
+nav a:hover {
+  color: yellow;
+  transition: 0.5s;
 }
 .shop-word {
   color: black;
@@ -69,3 +81,4 @@ footer {
   }
 
 }
+
