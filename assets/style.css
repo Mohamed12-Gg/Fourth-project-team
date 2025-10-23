@@ -465,6 +465,23 @@ header {
     padding: 5px 8px;
   }
 }
+#whyUS {
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 2%;
+  margin: 5%;
+}
+#whyUS div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+}
+
 /* footer */
 footer {
   color: white;
@@ -473,6 +490,7 @@ footer {
   padding: 2% 0;
   width:100%;
 }
+
 
 
 
