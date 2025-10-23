@@ -224,7 +224,7 @@ header {
     color: #fff;
     margin: 40px;
     overflow: hidden; 
-    background-image: url("/assets/image/banner-03.jpg");
+    background-image: url("image/banner-03.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center right; 
@@ -351,6 +351,7 @@ footer {
   padding: 2% 0;
   width:100%;
 }
+
 
 
 
